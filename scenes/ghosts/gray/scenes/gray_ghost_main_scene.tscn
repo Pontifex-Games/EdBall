@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="main_node" type="Node"]
+
+[node name="RigidBody2D" type="RigidBody2D" parent="."]
+
+[node name="RigidBody2D2" type="RigidBody2D" parent="."]
+
+[node name="RigidBody2D3" type="RigidBody2D" parent="."]
+
+[node name="KinematicBody2D" type="KinematicBody2D" parent="."]
